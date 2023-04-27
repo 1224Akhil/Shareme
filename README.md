@@ -10,7 +10,7 @@ A simple web application to upload and download the images
 </p>
 
 <p align="center"> Demo pic
-<img src="./src/assets/demo.png">
+<img src="./07287dc8-3c48-4a78-bf38-62a5b2e1167d.jpg">
 
 </p>
 
